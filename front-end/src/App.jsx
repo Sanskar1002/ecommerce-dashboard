@@ -32,4 +32,5 @@ function App() {
   );
 }
 
+// exporting app to be used in main.jsx
 export default App;
